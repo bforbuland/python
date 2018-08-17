@@ -61,4 +61,3 @@ else:
 
 server.quit()
 textfile.close()
-C:\Users\Lenovo\PycharmProjects\Email-Crawler
